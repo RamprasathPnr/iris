@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-xlarge-v4/capture_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-xlarge/capture_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-xlarge-v4/tab_background_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-xlarge/tab_background_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-xlarge-v4/about_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-xlarge/about_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-xlarge-v4/registration_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-xlarge/registration_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-xlarge/main_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-xlarge-v4/matching_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-xlarge/matching_layout.xml"
+    }
+]

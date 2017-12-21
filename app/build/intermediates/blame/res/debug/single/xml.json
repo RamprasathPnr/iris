@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/xml/spinner_text_style.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/xml/spinner_text_style.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/xml/settings.xml"
+    }
+]

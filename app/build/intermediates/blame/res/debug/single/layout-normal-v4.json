@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/registration_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/registration_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/tab_background_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/tab_background_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/main_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/main_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/matching_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/matching_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_bfd_reg_success.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/dialog_bfd_reg_success.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/capture_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/capture_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/about_layout.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/about_layout.xml"
+    },
+    {
+        "merged": "/home/ftuser/AndroidStudioProjects/iris/app/build/intermediates/res/merged/debug/layout-normal-v4/dialog_biometric_auth_retry.xml",
+        "source": "/home/ftuser/AndroidStudioProjects/iris/app/src/main/res/layout-normal/dialog_biometric_auth_retry.xml"
+    }
+]
